@@ -1,0 +1,15 @@
+.home-image{
+   /* background: url("./images/home.jpg") no-repeat; */
+   background-color: #7952B3;
+   height: 400px;
+   width: 100%;
+   margin: none;
+}
+.site-title {
+    padding-top: 10%;
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
